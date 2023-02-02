@@ -1,2 +1,2 @@
 <h1> My First Webpage </h1>
-<img src="leo.jpg" alt="The Great Leonardo Dicaprio">
+<img src="Leo.jpg" alt="The Great Leonardo Dicaprio">
