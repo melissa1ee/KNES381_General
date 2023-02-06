@@ -1,9 +1,21 @@
-<h1 align ="center"> A Champion </h1>
-<h4 align="center"> By: Melissa Lee </h4>
+<!DOCTYPE html>
+<html>
+<head>
+<title>A Champion</title>
+</head>
+<body>
 
-<img src="Leo.jpg" alt="The Great Leonardo Dicaprio" align="right">
-	<p>Here is some information on this amazing human being.</p>
-	<p style="color:red;"> He is wonderful. </p>
-	$${\color{red}Red}$$: He is great
+<h1 align ="center">Christine Sinclair</h1>
+<h4 align="center">By: Melissa Lee</h4>
 
-<a href=readme.md> Click here for more info! </a>
+<img src="Sinclair.jpg" alt="The Great Christine Sinclair" align="right">
+
+<p>Here is some information on this amazing human being.</p>
+<p style="color:red;"> He is wonderful. </p>
+$${\color{red}Red}$$:
+
+<a href=readme1.md> Click here for more info! </a>
+
+</body>
+</html>
+
