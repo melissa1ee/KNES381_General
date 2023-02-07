@@ -6,8 +6,7 @@
 
 To find exclusive information on Sinclair in a subfolder, [click here](https://github.com/melissa1ee/KNES381/blob/main/Website%20Subfolder/readme1.md)!
 
-
-$\color{red} She \space is \space a \space champion. \space (This \space is \space the \space best \space I \space can \space do)$
+$\color{purple} She \space is \space a \space champion. \space (This \space is \space the \space best \space I \space can \space do)$
 
 <a href=readme.md> Please use this readme.md file. </a>
 
