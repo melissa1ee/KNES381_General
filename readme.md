@@ -1,3 +1,1 @@
-<p> You found me. </p>
-<p> This is exclusive information on Sinclair: </p>
-<p> ........ </p>
+<p>&#9853;</p>
