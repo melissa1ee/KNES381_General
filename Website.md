@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>A Champion</title>
-</head>
-<body>
-
 <h1 align ="center">Christine Sinclair</h1>
 <h4 align="center">By: Melissa Lee</h4>
 
@@ -19,3 +12,10 @@ $${\color{red}Red}$$:
 </body>
 </html>
 
+Here is some important information on Sinclair.
+
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
